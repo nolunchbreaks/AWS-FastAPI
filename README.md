@@ -1,4 +1,4 @@
-# 🚀 Flask App Deployment on AWS Fargate with Terraform  
+#  Flask App Deployment on AWS Fargate with Terraform  
 
 This project showcases a full-cycle deployment of a **Flask web application**, built from scratch, containerized with **Docker**, and deployed on **AWS Fargate** using **Terraform** for Infrastructure as Code (IaC).
 
